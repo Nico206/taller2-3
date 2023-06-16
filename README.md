@@ -11,10 +11,6 @@ Este es login
 Codigo de creacion de base de datos:
 
 
-Nicolas Zuñiga <nicolas.music2006@gmail.com>
-mar, 6 jun, 17:34 (hace 10 días)
-para mí
-
 create database myapp;
 
 use myapp;
